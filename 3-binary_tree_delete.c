@@ -1,4 +1,4 @@
-/* 
+/*
  * FILEPATH: /home/topg/binary_trees/3-binary_tree_delete.c
  */
 
